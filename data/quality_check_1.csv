@@ -1,2 +1,3 @@
 s_no,error_type,username,user_id,osm_location_link,changeset_id,changeset_link,osm_object_type,osm_object_id,time_utc,country,detail,hashtag
 1,floating highway,rajdhani,20051396,https://www.openstreetmap.org/#map=18/-1.992086/113.760627,184897400,https://www.openstreetmap.org/changeset/184897400,way,1068125650,2026-07-01T06:57:01Z,Indonesia,way 1068125650: neither endpoint connects to any other highway -- isolated from the road network,tt_repair
+2,crossing highway,Wildsharky,16577436,https://www.openstreetmap.org/#map=18/36.569967/51.920673,184895576,https://www.openstreetmap.org/changeset/184895576,way,690984829,2026-07-01T06:02:11Z,Iran,crosses way 1151258872 without a shared junction node,tt_repair
